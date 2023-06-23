@@ -1,0 +1,52 @@
+
+2. Objects and its internal representation in Javascript:-
+
+      objects, in Javascript is the most important data type and forms the buil-
+-ding blocks for modern Javascript. It is different from primitive data-types   
+(number,string,boolean,undefinedand symbols) because it all stores only a single
+value each depending on their types. Objects are more complex because iy contain
+any combination of these primitive data-types and even reference data-types.
+
+     An object, is a reference data-type because the variables that are assigned
+a reference value given as a reference or a pointer to that value.that the refe-
+-rence or a pointer to a location in memory where the object stored. The variables
+don't store the value. Objects in Javascript may be defined as an unordered coll-
+-ection of related data, of primitive or reference types, it is in the form of   
+"key: value" pairs. These keys can be variables or functions and are called as   
+properties and method, respectively, in the context of an object.
+
+For example:-
+         
+let details ={
+            name  : "raja"
+            email : "raja@gmail.com"
+            mobile: "9857646573"
+            addres: "123,nehru street,chennai"
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
